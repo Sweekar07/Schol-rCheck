@@ -1,6 +1,9 @@
-# Factifi Core Fact-Check Pipeline
+# ScholárCheck Fact-Check Pipeline
 
 A Flask API that implements a core fact-checking pipeline by retrieving academic research from Semantic Scholar and analyzing claims using Gemini.
+
+Name: Sweekar Bangera
+Email: sweekar.786b@gmail.com
 
 ## Features
 
